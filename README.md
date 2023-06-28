@@ -8,3 +8,5 @@
 - Add your webhook and change the restart time in config.json
 - Start keep-alive.py
 - Now you have a restarter!
+## Author
+- https://github.com/M-oonly/Moonly-Restarter/tree/main
