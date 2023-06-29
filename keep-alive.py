@@ -3,7 +3,7 @@ import requests
 import subprocess
 import json
 
-with open('config.json', 'r') as f:
+with open('settings.json', 'r') as f:
   data = json.load(f)
 
 webhook = data["webhookUrl"]
